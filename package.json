@@ -1,0 +1,25 @@
+{
+  "name": "grid-2d",
+  "version": "0.1",
+  "author": "Andreas Köberle",
+  "description": "simple 2d grid",
+  "main": "./lib/grid.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eskimoblood/grid-2d.git"
+  },
+  "keywords": [
+    "2d",
+    "spatial"
+  ],
+  "devDependencies": {
+    "grunt": "0.5.x",
+    "grunt-buster": "~0.1.2"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://thedersen.mit-license.org/"
+    }
+  ]
+}
