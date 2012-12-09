@@ -13,7 +13,7 @@
     "spatial"
   ],
   "devDependencies": {
-    "grunt": "0.5.x",
+    "grunt": "~0.3.15",
     "grunt-buster": "~0.1.2"
   },
   "scripts": {
