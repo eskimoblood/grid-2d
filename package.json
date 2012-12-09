@@ -1,6 +1,6 @@
 {
   "name": "grid-2d",
-  "version": "0.1",
+  "version": "0.1.0",
   "author": "Andreas Köberle",
   "description": "small lib to get data out of a 2d grid",
   "main": "./lib/grid.js",
@@ -13,8 +13,11 @@
     "spatial"
   ],
   "devDependencies": {
-    "grunt": "~0.5.x",
+    "grunt": "0.5.x",
     "grunt-buster": "~0.1.2"
+  },
+  "scripts": {
+    "test": "node_modules/.bin/buster-test"
   },
   "licenses": [
     {
