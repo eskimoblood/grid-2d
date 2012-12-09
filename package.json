@@ -2,7 +2,7 @@
   "name": "grid-2d",
   "version": "0.1",
   "author": "Andreas Köberle",
-  "description": "simple 2d grid",
+  "description": "small lib to get data out of a 2d grid",
   "main": "./lib/grid.js",
   "repository": {
     "type": "git",
@@ -13,7 +13,7 @@
     "spatial"
   ],
   "devDependencies": {
-    "grunt": "0.5.x",
+    "grunt": "~0.5.x",
     "grunt-buster": "~0.1.2"
   },
   "licenses": [
