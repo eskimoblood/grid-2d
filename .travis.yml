@@ -8,7 +8,7 @@ before_script:
   - sleep 5
 
 script:
-  - "npm test"
+  - "grunt buster"
 
 language: node_js
 
